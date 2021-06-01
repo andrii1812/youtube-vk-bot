@@ -12,6 +12,6 @@ pytube==6.2.2
 requests==2.20.0
 six==1.10.0
 telepot==10.5
-urllib3==1.21
+urllib3==1.26.5
 vk==2.0.2
 yarl==0.10.0
